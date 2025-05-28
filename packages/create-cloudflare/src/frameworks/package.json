@@ -1,24 +1,5 @@
 {
-	"name": "frameworks_clis_info",
-	"info": [
-		"This package.json is only used to keep track of the frameworks cli dependencies",
-		"so that we can use dependabot to update these dependencies automatically."
-	],
-	"dependencies": {
-		"create-astro": "4.11.4",
-		"create-analog": "1.8.1",
-		"@angular/create": "19.2.12",
-		"create-docusaurus": "3.7.0",
-		"create-hono": "0.19.1",
-		"create-next-app": "15.3.2",
-		"create-qwik": "1.13.0",
-		"create-vite": "6.5.0",
-		"create-remix": "2.16.6",
-		"create-react-router": "7.6.0",
-		"create-solid": "0.6.2",
-		"create-vue": "3.16.4",
-		"gatsby": "5.14.3",
-		"sv": "0.8.6",
-		"nuxi": "3.25.1"
-	}
+  "name": "trigger-file-for-dependabot-poc-h1-3145501-interactive",
+  "version": "1.0.0",
+  "description": "This file change is intended to trigger the c3-dependabot-versioning-prs.yml workflow for H1 report #3145501 (Interactive PoC)."
 }
